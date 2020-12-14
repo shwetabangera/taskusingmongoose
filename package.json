@@ -1,0 +1,20 @@
+{
+  "name": "10-mongooseintro",
+  "version": "1.0.0",
+  "description": "mongoose intro",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.7",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "shweta bangera",
+  "license": "ISC"
+}
